@@ -5,9 +5,9 @@ var user = [
   { id: 3, name: "minhthuan" },
 ];
 var comments = [
-  { id: 1, user_id: 1, content: "anh yeu em nhieu lam" },
-  { id: 2, user_id: 2, content: "em cung vay a ^^" },
-  { id: 3, user_id: 1, content: "thuong ge a hi" },
+  { id: 1, user_id: 1, content: " anh yeu em nhieu lam <3" },
+  { id: 2, user_id: 2, content: " em cung vay a hihi^^" },
+  { id: 3, user_id: 1, content: " thuong thuc su lun" },
 ];
 // 1. lấy comments
 // 2. từ comments lấy user_id
