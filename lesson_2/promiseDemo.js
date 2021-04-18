@@ -1,3 +1,4 @@
+
 // promise demo
 var user = [
   { id: 1, name: "huudan" },
@@ -55,3 +56,4 @@ function getUsersByIds(UserIds) {
 // 2.callback, function
 // 3.promise
 //4.DOM
+// promise demo
