@@ -1,14 +1,13 @@
-
 // promise demo
 var user = [
   { id: 1, name: "huudan" },
-  { id: 2, name: "tien" },
-  { id: 3, name: "thuan" },
+  { id: 2, name: "thuytien" },
+  { id: 3, name: "minhthuan" },
 ];
 var comments = [
-  { id: 1, user_id: 1, content: "anh yeu em nhieu" },
-  { id: 2, user_id: 2, content: "em cung vay a ^^" },
-  { id: 3, user_id: 1, content: "thuong lam a nha chua hi" },
+  { id: 1, user_id: 1, content: " anh yeu em nhieu lam <3" },
+  { id: 2, user_id: 2, content: " em cung vay a hihi^^" },
+  { id: 3, user_id: 1, content: " thuong thuc su lun" },
 ];
 // 1. lấy comments
 // 2. từ comments lấy user_id
@@ -56,4 +55,3 @@ function getUsersByIds(UserIds) {
 // 2.callback, function
 // 3.promise
 //4.DOM
-// promise demo
